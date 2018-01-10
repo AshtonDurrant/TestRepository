@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-  printf("Version 2.0 of this code!\n");
+  printf("Moving on to version 3.0!\n");
   return 0;
-} //Just a reminder, this is the modified version of this code!
+} //Just a reminder, this is the second modified version of this code!
